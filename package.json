@@ -1,0 +1,13 @@
+{
+  "name": "relative-time-formatter-ko",
+  "version": "1.0.0",
+  "description": "A lightweight library to format relative time in Korean.",
+  "main": "index.js",
+  "keywords": ["relative time", "korean", "date formatter", "intl"],
+  "author": "moonhr",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moonhr/RelativeTimeFormatter-ko.git"
+  }
+}
